@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pheteevahy.cserb.net/sitemap.xml
